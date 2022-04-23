@@ -1,6 +1,14 @@
 {
     "name": "stafes/php-html2pdf",
     "description": "Html to PDF.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuki Nagashima",
+            "homepage": "https://github.com/yukiyukki",
+            "role": "Author"
+        }
+    ],
     "require": {
         "php": ">=5.6.32",
         "symfony/console": "^3.4",
